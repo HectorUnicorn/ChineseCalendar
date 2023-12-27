@@ -1,5 +1,4 @@
 "use strict";
-
 function init(lang) {
     if (window.location === window.parent.location) {
         document.getElementById("wrapper0").style.display = "block";
